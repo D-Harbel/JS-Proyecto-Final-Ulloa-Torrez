@@ -2,7 +2,7 @@ const PCPC = document.querySelector('#container')
 //PCPC: productos coder pan card
 const Barrabuscadora = document.querySelector('#buscadortabla')
 const BarraBCard = document.querySelector('#buscadorcard')
-const URL = 'js/productos.json'
+const URL = 'https://64d5ad10613ee4426d978247.mockapi.io/productos'
 
 
 
